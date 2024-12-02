@@ -1,7 +1,0 @@
-langchain
-streamlit
-openai
-gtts
-pygame
-requests
-python-dotenv
